@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\PS2Tools\bin\Debug\PS2Tools.exe.config
+D:\Visual Studio\Projects\PS2Tools\bin\Debug\PS2Tools.exe.manifest
+D:\Visual Studio\Projects\PS2Tools\bin\Debug\PS2Tools.application
+D:\Visual Studio\Projects\PS2Tools\bin\Debug\PS2Tools.exe
+D:\Visual Studio\Projects\PS2Tools\bin\Debug\PS2Tools.pdb
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.Form1.resources
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.Properties.Resources.resources
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.exe.manifest
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.application
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.exe
+D:\Visual Studio\Projects\PS2Tools\obj\Debug\PS2Tools.pdb
