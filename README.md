@@ -1,3 +1,3 @@
-# PS2Tools-Source-Code
+# PS2Tools-Source-Code - DEPRECATED TOOLS/SOFTWARE!
 
 DEPRECATED!
